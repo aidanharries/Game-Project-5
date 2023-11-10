@@ -1,3 +1,3 @@
 ﻿
-using var game = new Proj5.Game1();
+using var game = new Proj5.Proj5();
 game.Run();

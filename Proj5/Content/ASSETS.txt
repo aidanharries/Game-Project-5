@@ -1,0 +1,25 @@
+﻿# ASSETS USED IN PROJECT 5
+
+## Images
+Content/star.png - created by Aidan Harries using Aesprite
+Content/laser.png - created by Aidan Harries using Aesprite
+Content/asteroid.png - created by FoozleCC under the Creative Commons Zero License
+	- Source: https://foozlecc.itch.io/void-environment-pack
+Content/asteroid_explode.png - created by FoozleCC under the Creative Commons Zero License
+	- Source: https://foozlecc.itch.io/void-environment-pack
+Content/ship.png - created by FoozleCC under the Creative Commons Zero License
+	- Source: https://foozlecc.itch.io/void-main-ship
+Content/planet.fbx - created by Konstantin_Keller under the Creative Commons Attribution License
+	- Source: https://sketchfab.com/3d-models/low-poly-earth-c99483d5e2a94ca8b4f3579145584beb
+
+## Audio
+Content/Explosion.wav - created by Aidan Harries using bfxr
+Content/Play.wav - created by Aidan Harries using bfxr
+Content/shoot.wav - created by Aidan Harries using bfxr
+Content/Retro_Platforming.mp3 - created by David Fesliyan under royalty free music
+	- Source: https://www.fesliyanstudios.com/royalty-free-music/download/retro-platforming/454
+
+## Fonts
+- Content/LanaPixel.ttf: LanaPixel font created by eishiya.
+  - License: Open Font License (OFL)
+  - Source: https://opengameart.org/content/lanapixel-localization-friendly-pixel-font
